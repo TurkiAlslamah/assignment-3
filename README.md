@@ -64,12 +64,12 @@ assignment-1/
 
 1. Clone repository
 ```bash
-git clone https://github.com/turkialslamah/assignment-2
+git clone https://github.com/turkialslamah/assignment-3
 ```
 
 2. Navigate to folder
 ```bash
-cd assignment-1
+cd assignment-3
 ```
 
 3. Open in browser
